@@ -1,0 +1,6 @@
+{
+  "name": "Forex Insight Engine",
+  "description": "An AI-powered web application that analyzes forex chart screenshots based on a comprehensive trading strategy. Users can upload a chart, and the app provides a detailed breakdown of trade ideas, evaluating location, momentum, rotation, setup, and signals to help traders make informed decisions.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
